@@ -1,0 +1,4 @@
+outbound_departure_airport;outbound_arrival_airport;outbound_departure_time;outbound_arrival_time;inbound_departure_airport;inbound_arrival_airport;inbound_departure_time;inbound_arrival_time;total_price;taxes
+NBO;MBA;Wed 23 Feb 6:00AM;Wed 23 Feb 7:10AM;MBA;NBO;Wed 02 Mar 8:20PM;Wed 02 Mar 9:30PM;8480.0;1200.0
+NBO;MBA;Wed 23 Feb 8:00AM;Wed 23 Feb 9:10AM;MBA;NBO;Wed 02 Mar 8:20PM;Wed 02 Mar 9:30PM;8480.0;1200.0
+NBO;MBA;Wed 23 Feb 6:40PM;Wed 23 Feb 7:50PM;MBA;NBO;Wed 02 Mar 8:20PM;Wed 02 Mar 9:30PM;8480.0;1200.0

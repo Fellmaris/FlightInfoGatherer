@@ -1,0 +1,5 @@
+outbound_departure_airport;outbound_arrival_airport;outbound_departure_time;outbound_arrival_time;inbound_departure_airport;inbound_arrival_airport;inbound_departure_time;inbound_arrival_time;total_price;taxes
+NBO;MBA;Sat 05 Mar 6:00AM;Sat 05 Mar 7:10AM;MBA;NBO;Sat 12 Mar 7:30AM;Sat 12 Mar 8:40AM;7880.0;1200.0
+NBO;MBA;Sat 05 Mar 6:00AM;Sat 05 Mar 7:10AM;MBA;NBO;Sat 12 Mar 8:20PM;Sat 12 Mar 9:30PM;7880.0;1200.0
+NBO;MBA;Sat 05 Mar 6:40PM;Sat 05 Mar 7:50PM;MBA;NBO;Sat 12 Mar 7:30AM;Sat 12 Mar 8:40AM;7880.0;1200.0
+NBO;MBA;Sat 05 Mar 6:40PM;Sat 05 Mar 7:50PM;MBA;NBO;Sat 12 Mar 8:20PM;Sat 12 Mar 9:30PM;7880.0;1200.0
